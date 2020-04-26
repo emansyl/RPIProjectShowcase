@@ -1,7 +1,18 @@
 <template>
     <div>
         
-            <h1 id="headline">Insert a catchy Tag Line Here</h1>
+            <!-- <h1 id="headline">Insert a catchy Tag Line Here</h1> -->
+
+            <section class="cd-intro">
+                <div class="cd-intro-content bouncy">
+                    <h1>How do RPI Students Change the world?</h1>
+                    <p>A collection of some the most innovative projects at RPI</p>
+                    <div class="action-wrapper">
+                        <a href="#0" class="cd-btn main-action">Projects</a>
+                        <a href="#0" class="cd-btn">About</a>
+                    </div>
+                </div>
+            </section>
 
             <body>
                 <div>   
